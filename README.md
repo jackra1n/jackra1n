@@ -1,8 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackra1n&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![jackra1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackra1n&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackra1n&exclude_repo=Shipdoku&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![jackra1n's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackra1n&exclude_repo=Shipdoku&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackra1n&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![jackra1n's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackra1n&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
