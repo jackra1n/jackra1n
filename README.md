@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackra1n&exclude_repo=Shipdoku&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackra1n&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
