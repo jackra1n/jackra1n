@@ -8,11 +8,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jackra1n&theme=github_dark&width=100&layout=compact" />
 </a> -->
 
----
-
-<details>
-  <summary>Spotify</summary>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=xjacek&redirect=true">
-    <img alt="spotify github profile" src="https://spotify-github-profile.vercel.app/api/view?uid=xjacek&cover_image=false&theme=default">
-  </a>
-</details>
