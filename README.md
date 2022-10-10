@@ -1,8 +1,11 @@
 <h1>Welcome to my GitHub profile</h1>
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=True" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackra1n&layout=compact&exclude_repo=Shipdoku&theme=github_dark&card_width=445" />
+
 <h3 align="left">Tools and Languages:</h3>
 
-<p align="left">
+<div style="max-width: 49%">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
   </a>
@@ -66,11 +69,5 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
-</p>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=True" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackra1n&layout=compact&exclude_repo=Shipdoku&theme=github_dark&card_width=445" />
-</a>
