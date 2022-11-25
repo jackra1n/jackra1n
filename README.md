@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub profile</h1>
 
-<img src="/github-metrics.svg" alt="Metrics" align="left" width="49%">
+<img src="/github-metrics.svg" alt="Metrics" align="left" width="49%" style="padding-right: 0px;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=True" />
 
 <h3 align="left">Tools and Languages:</h3>
