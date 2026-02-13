@@ -1,18 +1,24 @@
 name: Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Update every 3 days at 00:00 UTC (day-of-month cadence)
+  schedule:
+    - cron: "0 0 */3 * *"
+  # Allow manual runs
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics SVG
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories

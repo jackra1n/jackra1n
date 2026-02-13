@@ -2,7 +2,7 @@ name: Readme Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 */3 * *"
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,10 @@ jobs:
       - name: Generate github-readme-stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: stats
           token: ${{ secrets.README_STATS_TOKEN }}
-          username: jackra1n
-          output_path: github-readme-stats.svg
-          options: "&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"
+          path: github-readme-stats.svg
+          options: "&username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"
 
       - name: Commit and push changes
         run: |
