@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">jackra1n's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 56, Total Commits  : 4057, Total PRs: 449, Total Issues: 50, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 56, Total Commits  : 4093, Total PRs: 449, Total Issues: 50, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.38777152424968;
+        stroke-dashoffset: 50.215481676870944;
       }
     }
   
