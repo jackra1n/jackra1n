@@ -29,7 +29,7 @@ jobs:
           options: "&username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"
 
       - name: Generate GitHub metrics SVG
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
