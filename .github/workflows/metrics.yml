@@ -38,6 +38,7 @@ jobs:
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_ignored: swift,gdscript
           plugin_languages_details: percentage
 
       - name: Sync generated metrics SVG into repository
