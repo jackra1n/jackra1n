@@ -29,29 +29,12 @@ jobs:
           options: "&username=jackra1n&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"
 
       - name: Generate GitHub metrics SVG
-        uses: gh-metrics/metrics@master
+        uses: jackra1n/metrics-rs@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          output_action: none
-          base: header, repositories
-          plugin_lines: yes
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: swift,gdscript
-          plugin_languages_details: percentage
-
-      - name: Sync generated metrics SVG into repository
-        run: |
-          if [ -f /metrics_renders/github-metrics.svg ]; then
-            cp /metrics_renders/github-metrics.svg github-metrics.svg
-          elif [ -f github-metrics.svg ]; then
-            echo "github-metrics.svg already exists in workspace"
-          else
-            echo "github-metrics.svg not found after metrics generation"
-            ls -la /metrics_renders || true
-            exit 1
-          fi
+          indepth: yes
+          ignore_languages: swift,gdscript
 
       - name: Commit and push updated cards
         run: |
