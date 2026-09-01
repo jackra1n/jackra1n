@@ -6,18 +6,18 @@
   <text x="58" y="34" font-size="17" font-weight="bold" fill="#e6edf3">jackra1n</text>
   <text x="58" y="52" font-size="13" fill="#8b949e">joined 7y ago</text>
   <rect x="313" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
-  <rect x="324" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
+  <rect x="324" y="28" width="8" height="8" rx="2" fill="#006d32"/>
   <rect x="335" y="28" width="8" height="8" rx="2" fill="#006d32"/>
-  <rect x="346" y="28" width="8" height="8" rx="2" fill="#006d32"/>
-  <rect x="357" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
-  <rect x="368" y="28" width="8" height="8" rx="2" fill="#39d353"/>
+  <rect x="346" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
+  <rect x="357" y="28" width="8" height="8" rx="2" fill="#39d353"/>
+  <rect x="368" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="379" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="390" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="401" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="412" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="423" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
   <rect x="434" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
-  <rect x="445" y="28" width="8" height="8" rx="2" fill="#0e4429"/>
+  <rect x="445" y="28" width="8" height="8" rx="2" fill="#161b22"/>
   <rect x="456" y="28" width="8" height="8" rx="2" fill="#161b22"/>
   <text x="464" y="52" text-anchor="end" font-size="12" fill="#8b949e">contributed to 45 repositories</text>
   <line x1="16" y1="84" x2="464" y2="84" stroke="#21262d"/>
